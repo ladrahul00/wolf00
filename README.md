@@ -3,7 +3,7 @@
 
 
 #### 🔭 I’m currently working on 
-- [Ads manager at Flipkart](https://cloud.flipkart.com/)
+- [Ads manager at Flipkart Commerce Cloud](https://cloud.flipkart.com/)
 - Preparing for my hike to Island peak in 2022
 
 
