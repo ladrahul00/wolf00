@@ -3,7 +3,7 @@
 
 
 #### 🔭 I’m currently working on 
-- [Flipkart Commerce Cloud at Flipkart](https://qbo.ai/)
+- [Flipkart Commerce Cloud at Flipkart](https://cloud.flipkart.com/)
 - Preparing for my hike to Island peak in 2022
 
 
