@@ -3,13 +3,13 @@
 
 
 #### 🔭 I’m currently working on 
-- [Qbo at Unscrambl](https://qbo.ai/)
-- Creating an Infra library to support any usecase
-- Preparing for my hike to Everest basecamp and Island peak in 2021
+- [Flipkart Commerce Cloud at Flipkart](https://qbo.ai/)
+- Preparing for my hike to Island peak in 2022
 
 
 #### 🌱 I’m currently learning 
 - Typescript
+- Java
 - Go and Go frameworks
 - System designs of complex systems
 
@@ -21,5 +21,3 @@
 - Music
 
 #### 📫 How to reach me **ladrahul00@gmail.com**
-
-![Image](https://wakatime.com/share/@wolf00/e7aa7a80-3545-4ac9-ab3d-a6e29acdebe5.png) 
